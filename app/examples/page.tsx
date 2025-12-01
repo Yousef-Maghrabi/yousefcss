@@ -3,7 +3,7 @@ import { CodeBlock } from "@/components/code-block"
 
 export default function ExamplesPage() {
   return (
-    <DocsLayout title="">
+    <DocsLayout title="Examples">
       <div className="max-w-4xl">
         <h1 className="text-4xl font-bold tracking-tight mb-4">Examples</h1>
         <p className="text-xl text-muted-foreground mb-8">
