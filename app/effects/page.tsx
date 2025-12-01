@@ -3,7 +3,7 @@ import { CodeBlock } from "@/components/code-block"
 
 export default function EffectsPage() {
   return (
-    <DocsLayout>
+    <DocsLayout title="">
       <div className="max-w-4xl">
         <h1 className="text-4xl font-bold tracking-tight mb-4">Animation Effects</h1>
         <p className="text-xl text-muted-foreground mb-8">
